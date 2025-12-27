@@ -1,1 +1,1 @@
-# praktikum-struktur-data-dana-algoritma
+# praktikum-struktur-data-dan-algoritma
